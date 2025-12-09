@@ -30,13 +30,13 @@ readme: |
 
   ---
 
-  ## 📂 Estrutura do Projeto
+  ## Estrutura do Projeto
 
 Caixeiro_Viajante/
-├── tsp_ag.py # Código principal
-├── melhor_rota.png # Imagem da melhor rota encontrada
-├── evolucao_aptidao.png # Gráfico da evolução do custo
-└── README.md # Este arquivo
+ tsp_ag.py # Código principal
+ melhor_rota.png # Imagem da melhor rota encontrada
+evolucao_aptidao.png # Gráfico da evolução do custo
+README.md # Este arquivo
 
 
 ---
